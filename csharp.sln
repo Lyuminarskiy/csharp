@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1_1", "T1_1\T1_1.csproj", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{29DA2E1C-9A7A-45D2-BF95-17ABACA3F1B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1_1_Tests", "T1_1_Tests\T1_1_Tests.csproj", "{6CAF9DFB-953A-4670-849D-B3B0B7631AA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T1_1.Tests", "T1_1.Tests\T1_1.Tests.csproj", "{6CAF9DFB-953A-4670-849D-B3B0B7631AA8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

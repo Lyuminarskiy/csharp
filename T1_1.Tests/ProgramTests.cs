@@ -1,7 +1,7 @@
 using T1_1;
 using Xunit;
 
-namespace T1_1_Tests
+namespace T1_1.Tests
 {
     public class ProgramTests
     {
